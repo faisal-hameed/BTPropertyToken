@@ -36,6 +36,7 @@ test
 ### Running front end application
 To start the front-end on http://localhost8080 in new terminal
 `rpm run dev`
+
 Front end application will be started.
 Now you can interact with your deployed Smart Contract from web application.
 
@@ -49,3 +50,8 @@ This is the port number, where the "truffle develop" runs the local network
 
 ### Integration with Infura
 If you want to interact with public ethereum networks e.g. (Mainnet, Testnet), you need to create Infura account
+
+### Live network deployment
+ Deploying BTFile...
+  ... 0x33bcd2819f3080a55250ab2c8aaad930fea04f8f7c341f7506cfdea19e46694f
+  BTFile: 0x0236684b024c2632dcb3887a0d6c2d63ce2d347d
